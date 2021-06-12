@@ -1,0 +1,4 @@
+.bluebox{
+    display: flex;
+    flex-wrap: wrap;
+}
